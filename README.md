@@ -13,9 +13,7 @@ The project covers:
 
 ---
 
-## 📂 Dataset
-
-- **Dataset Source:** [Kaggle - Heart Disease UCI Dataset](https://www.kaggle.com/datasets/ronitf/heart-disease-uci)  
+## 📂 Dataset 
 - **Features:**
   - `age`: Age of the patient
   - `sex`: Gender (1 = male; 0 = female)
